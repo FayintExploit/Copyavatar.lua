@@ -67,7 +67,7 @@
           ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ██║
 
                                           ╔═══════════════════════════════════════════════╗
-                                          ║    PROTECTED BY FAYINTXCODE SECURITY SYSTEM  THANKS INDONESIA      ║
+                                          ║    PROTECTED BY FAYINTXCODE SECURITY SYSTEM        ║
                                           ║         OBFUSCATED & ENCRYPTED CODE           ║
                                           ╚═══════════════════════════════════════════════╝
 
